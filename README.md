@@ -64,7 +64,10 @@ The project includes a comprehensive testing suite:
 
 Below is a recording of the agent in action, successfully translating a query and displaying results:
 
-![Final Verification Flow Recording](/Users/lahiruwijayapala/.gemini/antigravity/brain/eca442b4-4914-4a06-8d25-8f5cb54096a1/final_success_verification_1774073780953.webp)
+![Final Verification Flow Recording](docs/media/final_success_verification_1774073780953.webp)
+
+Typical successful query result:
+![Successful Query Result](docs/media/query_success_1774073830397.png)
 
 ## 📄 License
 
